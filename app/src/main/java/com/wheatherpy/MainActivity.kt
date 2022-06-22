@@ -1,4 +1,4 @@
-package org.wheather
+package com.wheatherpy
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package org.wheather
+package com.wheatherpy
 
 import org.junit.Test
 
