@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">WheatherPy</string>
+    <string name="app_name">Meteorología PY</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="actualizado_en">Actualizado en</string>
+    <string name="estado">Cielo Abierto</string>
+    <string name="temperatura">24°C</string>
+    <string name="min_temperatura">Min Temperatura</string>
+    <string name="max_temperatura">Max Temperatura</string>
+    <string name="seleccione_la_ciudad">Seleccione la ciudad</string>
+    <string name="asunci_n">Asunción</string>
+    <string name="encarnaci_n">Encarnación</string>
+    <string name="villa_rica">Villa Rica</string>
+    <string name="presidente_franco">Presidente Franco</string>
+    <string name="capiata">Capiata</string>
 </resources>
