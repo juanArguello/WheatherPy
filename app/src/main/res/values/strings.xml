@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Meteorología PY</string>
+    <string name="app_name">Clima PY</string>
     <string name="ubicacion">Ubicación</string>
     <string name="actualizado_en">Actualizado en</string>
     <string name="estado">Cielo Abierto</string>
@@ -12,4 +12,28 @@
     <string name="villa_rica">Villa Rica</string>
     <string name="presidente_franco">Presidente Franco</string>
     <string name="capiata">Capiata</string>
+    <string name="ciudades_del_paraguay">Ciudades del Paraguay</string>
+    <string name="ciudades">Ciudades</string>
+    <string-array name="ciudades_array">
+        <item>Asuncion</item>
+        <item>Capiata</item>
+        <item>Caaguazu</item>
+        <item>Caacupe</item>
+        <item>Coronel Oviedo</item>
+        <item>Concepcion</item>
+        <item>Colonia Mariano Roque Alonso</item>
+        <item>Encarnacion</item>
+        <item>Fernando de la Mora</item>
+        <item>Ita</item>
+        <item>Itaugua</item>
+        <item>Lambare</item>
+        <item>Limpio</item>
+        <item>Nemby</item>
+        <item>Pilar</item>
+        <item>Presidente Franco</item>
+        <item>San Lorenzo</item>
+        <item>San Antonio</item>
+        <item>Villarrica</item>
+        <item>Villa Elisa</item>
+    </string-array>
 </resources>

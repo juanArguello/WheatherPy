@@ -1,6 +1,6 @@
 package com.wheatherpy.entities
 
 data class Coord(
-    val lon: Double,
-    val lat: Double
+    val lat: Double,
+    val lon: Double
 )

@@ -1,6 +1,6 @@
 package com.wheatherpy.entities
 
 data class Wind(
-    val speed: Double,
-    val deg: Int
+    val deg: Int,
+    val speed: Double
 )
